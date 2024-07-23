@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "I am in main branch"
+echo "I am not in main branch"
+echo "I am in feature branch"
